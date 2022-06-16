@@ -1,0 +1,46 @@
+@font-face {
+  font-family: Vazir;
+  src: url(./Vazir/Vazirmatn-Regular.ttf);
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url(./Vazir/Vazirmatn-Medium.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url(./Vazir/Vazirmatn-Bold.ttf);
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url(./Vazir/Vazirmatn-Thin.ttf);
+  font-weight: lighter;
+}
+
+
+@font-face {
+  font-family: Roboto;
+  src: url(./Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(./Roboto/Roboto-Medium.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(./Roboto/Roboto-Bold.ttf);
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(./Roboto/Roboto-Thin.ttf);
+  font-weight: lighter;
+}
